@@ -143,3 +143,4 @@ Movie.create([
     female_director: true
   }
 ])
+puts "Done seeding"
